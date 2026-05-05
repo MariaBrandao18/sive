@@ -7,7 +7,7 @@
 
 ## 📌 Introdução do Problema
 
-Com base no diagnóstico apresentado, propõe-se o desenvolvimento do **Sistema de Identificação Visual de Evasão (SIVE)**, uma solução digital centrada na visualização estratégica de dados educacionais.
+Propõe-se o desenvolvimento do **Sistema de Identificação Visual de Evasão (SIVE)**, uma solução digital centrada na visualização estratégica de dados educacionais.
 
 Diferente dos métodos tradicionais de chamada e diários de classe — que muitas vezes escondem padrões de abandono em meio a pilhas de papel — o SIVE utiliza a visualização de dados para destacar disparidades, tendências de faltas e comportamentos de risco antes que o aluno efetivamente abandone a instituição.
 
