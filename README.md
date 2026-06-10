@@ -133,9 +133,11 @@ Os riscos identificados — resistência dos professores ao registro regular e d
 
 ```
 sive/
-├── docs/        # Documentação acadêmica e técnica
-├── src/         # Código-fonte da solução
-└── data/        # Estrutura de dados e exemplos anonimizados
+├── diagramas/       # Diagramas BPMN (AS IS e TO BE)
+├── documentacao/    # Documentação acadêmica e técnica (DAN)
+├── pitch-slides/    # Apresentação do projeto (pitch)
+├── prototipo-01/    # Telas do primeiro protótipo de interface
+└── prototipo-02/    # Telas do segundo protótipo de interface
 ```
 
 ---
