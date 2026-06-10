@@ -91,7 +91,7 @@ O sistema opera em ciclos recorrentes estruturados em três etapas:
 
 2. **Processamento automático:** O sistema calcula as taxas de frequência por aluno e disciplina, compara os valores com os limiares definidos — frequência inferior a 75% e nota abaixo da média mínima aprovativa — e classifica o aluno com nível de risco baixo, médio ou alto, gerando alertas direcionados ao coordenador pedagógico responsável e diretoria.
 
-3. **Acompanhamento pedagógico:** O coordenador acessa o dashboard, visualiza os alunos sinalizados e atualiza o status de cada caso. O histórico de alertas e intervenções é mantido ao longo do semestre, conferindo rastreabilidade ao processo.
+3. **Acompanhamento pedagógico:** O coordenador acessa o dashboard, visualiza os alunos sinalizados e depois atualiza o status de cada caso. O histórico de alertas e intervenções é mantido ao longo do semestre, conferindo rastreabilidade ao processo.
 
 ---
 
